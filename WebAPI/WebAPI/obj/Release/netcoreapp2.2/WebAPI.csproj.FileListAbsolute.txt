@@ -1,0 +1,16 @@
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\bin\Release\netcoreapp2.2\appsettings.Development.json
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\bin\Release\netcoreapp2.2\appsettings.json
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\bin\Release\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.deps.json
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.dll
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\bin\Release\netcoreapp2.2\WebAPI.pdb
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.dll
+C:\Users\warso\OneDrive\Documenten\GitHub\s2it-incident-tool-MaartenWarson\Backend\WebAPI\WebAPI\WebAPI\obj\Release\netcoreapp2.2\WebAPI.pdb
