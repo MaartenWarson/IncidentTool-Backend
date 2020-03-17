@@ -2,7 +2,7 @@
  
 ## General Summary
 This goals of this project is to create an application that runs on both an iOS device as an Android Device using **Xamarin Forms**. This application is intended to use in a work environment. This is one of 3 repositories in this project:
-- [IncidentTool-UWP]()
+- [IncidentTool-UWP](https://github.com/MaartenWarson/IncidentTool-UWP)
 - [IncidentTool-Xamarin]()
 - [IncidentTool-Backend](https://github.com/MaartenWarson/IncidentTool-Backend)
 
@@ -18,7 +18,7 @@ With the Xamarin application, an employee of the company is able to scan a QR co
 This application is a RESTFul Web API that created the connection with a local SQL Server database. Here the data from the devices, incidents, occurred incidents, users, ... will be stored.
 
 ## Repository Summary
-This repository will focus on the backend part of the project. This is a RESTFull WEB API writtin in .NET Core 3.1.
+This repository will focus on the backend part of the project. This is a RESTFull WEB API written in .NET Core 3.1.
 
 ## Running the project
 **IncidentTool-Backend**
